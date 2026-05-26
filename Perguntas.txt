@@ -1,4 +1,5 @@
 1 - O que são operações de “Commit”, “Push” e “Pop” efetuadas num repositório?
+commit
 2 – Quais sáo as vantagens de usar Branchs num repositório git?
 3 – Nos Merges de conteúdos resultantes de um “Pop” podem resultar em conflitos. Em
 que consistem e como podem ser resolvidos esses conflitos?
